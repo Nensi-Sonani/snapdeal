@@ -1,0 +1,14 @@
+.font-40{
+    font-size: 40px;
+}
+.top-heading{
+    font-size: 18px;
+    color: #5a5a5a;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.subtext{
+    font-size: 12px;
+    color: #a4a3a3;
+}
