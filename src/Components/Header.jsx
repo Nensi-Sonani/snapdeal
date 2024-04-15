@@ -43,7 +43,7 @@ const Header = () => {
       </div>
       <div className="color-e40046 padding-header text-white">
         <Container>
-          <div className="d-flex align-items-center">
+          <div className="d-flex align-items-center ">
             <div className="w-10">
               <img
                 src="https://i3.sdlcdn.com/img/snapdeal/darwin/logo/sdLatestLogo.svg"
